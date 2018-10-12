@@ -3,6 +3,7 @@ These scripts were used for dealing with bed file and fasta file.
 
 Convert bed to fasta# 
 Usage:
+
 perl bedtofasta.pl genome.fa your.bed
 
 Bed file example (The forth column could be instead for any information ):

@@ -7,6 +7,7 @@ Usage:
 perl bedtofasta.pl genome.fa your.bed
 
 Bed file example (The forth column could be instead for any information ):
+
 15	49022977	49024619	ENSBTAG00000038748
 19	14639863	14641748	ENSBTAG00000039504
 13	74484051	74486972	ENSBTAG00000016127

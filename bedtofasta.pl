@@ -1,5 +1,6 @@
 use strict;
 use feature qw(say);
+@ARGV == 2 or die "Usage: \n\n perl $0 genome.fa your.bed > outputfile\n";
 my $genome = $ARGV[0];
 my $bedfile = $ARGV[1];
 #my $count=0;

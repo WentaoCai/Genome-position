@@ -9,4 +9,6 @@ perl bedtofasta.pl genome.fa your.bed > output.fa
 
 perl filter_fastq_by_id.pl id.file fastq.file> output.fastq
 
-3.
+3. convert fastq to fasta
+
+
